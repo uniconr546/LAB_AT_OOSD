@@ -1,1 +1,172 @@
+Bài 1 abstract class CHinhVe{ protected int MaLoaiHinhVe; public abstract float DienTich(); public abstract float ChuVi(); public abstract void Ve(); }
 
+public class CDiem { private float x; private float y;
+
+public CDiem() {
+}
+
+public CDiem(float x, float y) {
+    this.x = x;
+    this.y = y;
+}
+
+public float getX() {
+    return x;
+}
+
+public float getY() {
+    return y;
+}
+
+public void setX(float x) {
+    this.x = x;
+}
+
+public void setY(float y) {
+    this.y = y;
+}
+}
+
+public class CTamGiac extends CHinhVe { protected CDiem cDiemP1; protected CDiem cDiemP2; protected CDiem cDiemP3;
+
+public CTamGiac() {
+    cDiemP1 = new CDiem();
+    cDiemP2 = new CDiem();
+    cDiemP3 = new CDiem();
+}
+
+@Override
+public float dienTich() {
+    float x1 = cDiemP1.getX();
+    float y1 = cDiemP1.getY();
+
+    float x2 = cDiemP2.getX();
+    float y2 = cDiemP2.getY();
+
+    float x3 = cDiemP3.getX();
+    float y3 = cDiemP3.getY();
+
+    return Math.abs(
+        (x1 * (y2 - y3)
+        + x2 * (y3 - y1)
+        + x3 * (y1 - y2)) / 2
+    );
+}
+
+@Override
+public float chuVi() {
+    float a = khoangCach(cDiemP1, cDiemP2);
+    float b = khoangCach(cDiemP2, cDiemP3);
+    float c = khoangCach(cDiemP3, cDiemP1);
+
+    return a + b + c;
+}
+
+private float khoangCach(CDiem p1, CDiem p2) {
+    float dx = p1.getX() - p2.getX();
+    float dy = p1.getY() - p2.getY();
+
+    return (float) Math.sqrt(dx * dx + dy * dy);
+}
+
+@Override
+public void ve() {
+    System.out.println("Vẽ hình tam giác");
+}
+} public class CTuGiac extends CHinhVe { protected CDiem cDiemP1; protected CDiem cDiemP2; protected CDiem cDiemP3; protected CDiem cDiemP4;
+
+public CTuGiac() {
+    cDiemP1 = new CDiem();
+    cDiemP2 = new CDiem();
+    cDiemP3 = new CDiem();
+    cDiemP4 = new CDiem();
+}
+
+@Override
+public float dienTich() {
+    float s1 = dienTichTamGiac(
+        cDiemP1, cDiemP2, cDiemP3
+    );
+
+    float s2 = dienTichTamGiac(
+        cDiemP1, cDiemP3, cDiemP4
+    );
+
+    return s1 + s2;
+}
+
+private float dienTichTamGiac(CDiem p1, CDiem p2, CDiem p3) {
+    return Math.abs(
+        (p1.getX() * (p2.getY() - p3.getY())
+        + p2.getX() * (p3.getY() - p1.getY())
+        + p3.getX() * (p1.getY() - p2.getY())) / 2
+    );
+}
+
+@Override
+public float chuVi() {
+    return khoangCach(cDiemP1, cDiemP2)
+         + khoangCach(cDiemP2, cDiemP3)
+         + khoangCach(cDiemP3, cDiemP4)
+         + khoangCach(cDiemP4, cDiemP1);
+}
+
+private float khoangCach(CDiem p1, CDiem p2) {
+    float dx = p1.getX() - p2.getX();
+    float dy = p1.getY() - p2.getY();
+
+    return (float) Math.sqrt(dx * dx + dy * dy);
+}
+
+@Override
+public void ve() {
+    System.out.println("Vẽ hình tứ giác");
+}
+} public class CEllipse extends CHinhVe { protected CDiem cDiemTam; protected float a; protected float b;
+
+public CEllipse() {
+    cDiemTam = new CDiem();
+    a = 0;
+    b = 0;
+}
+
+@Override
+public float dienTich() {
+    return (float) (Math.PI * a * b);
+}
+
+@Override
+public float chuVi() {
+    // Công thức xấp xỉ Ramanujan
+    return (float) (
+        Math.PI * (
+            3 * (a + b)
+            - Math.sqrt((3 * a + b) * (a + 3 * b))
+        )
+    );
+}
+
+@Override
+public void ve() {
+    System.out.println("Ve hinh ellipse");
+}
+} public class Main { public static void main(String[] args) {
+
+    CHinhVe hinh1 = new CTamGiac();
+    CHinhVe hinh2 = new CTuGiac();
+    CHinhVe hinh3 = new CEllipse();
+
+    hinh1.ve();
+    hinh2.ve();
+    hinh3.ve();
+
+    System.out.println("Dien tich tam giac: "
+            + hinh1.dienTich());
+
+    System.out.println("Dien tich tu giac: "
+            + hinh2.dienTich());
+
+    System.out.println("Dien tich ellipse: "
+            + hinh3.dienTich());
+}
+}
