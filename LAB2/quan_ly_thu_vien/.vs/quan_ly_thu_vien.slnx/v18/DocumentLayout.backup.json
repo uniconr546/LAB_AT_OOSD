@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmtrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmtrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmphieuphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmphieuphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|c:\\users\\acer aspire 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\frmnhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95ADBDEA-C18B-45E8-B0D4-B71582E35B02}|quan_ly_thu_vien\\quan_ly_thu_vien.csproj|solutionrelative:quan_ly_thu_vien\\frmnhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDocGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmDocGia.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmDocGia.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmDocGia.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmDocGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:05:00.657Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmMain.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmMain.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T03:40:06.466Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTheLoai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTheLoai.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmTheLoai.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTheLoai.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T08:57:32.374Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmNhaXuatBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmNhaXuatBan.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmNhaXuatBan.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmNhaXuatBan.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmNhaXuatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T09:05:16.113Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTheThuVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTheThuVien.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmTheThuVien.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTheThuVien.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmTheThuVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T08:17:15.315Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMuonSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmMuonSach.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmMuonSach.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmMuonSach.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmMuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T09:25:23.006Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTraSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTraSach.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmTraSach.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmTraSach.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmTraSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T09:51:37.964Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPhieuPhat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmPhieuPhat.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmPhieuPhat.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmPhieuPhat.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmPhieuPhat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T10:06:53.777Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "quan_ly_thu_vien\\FrmThongKe.cs",
+              "ToolTip": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "quan_ly_thu_vien\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T10:19:56.216Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
