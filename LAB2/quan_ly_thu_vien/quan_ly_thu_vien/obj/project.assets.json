@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\quan_ly_thu_vien.csproj",
+      "projectUniqueName": "C:\\Users\\ACER ASPIRE 7\\source\\code\\LAB_AT_OOSD\\LAB2\\quan_ly_thu_vien\\quan_ly_thu_vien\\quan_ly_thu_vien.csproj",
       "projectName": "quan_ly_thu_vien",
-      "projectPath": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\quan_ly_thu_vien.csproj",
+      "projectPath": "C:\\Users\\ACER ASPIRE 7\\source\\code\\LAB_AT_OOSD\\LAB2\\quan_ly_thu_vien\\quan_ly_thu_vien\\quan_ly_thu_vien.csproj",
       "packagesPath": "C:\\Users\\ACER ASPIRE 7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER ASPIRE 7\\source\\code\\quan_ly_thu_vien\\quan_ly_thu_vien\\obj\\",
+      "outputPath": "C:\\Users\\ACER ASPIRE 7\\source\\code\\LAB_AT_OOSD\\LAB2\\quan_ly_thu_vien\\quan_ly_thu_vien\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

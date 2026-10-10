@@ -452,7 +452,6 @@
             Name = "FrmDocGia";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FrmDocGia";
-            Load += this.FrmDocGia_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);

@@ -283,7 +283,6 @@
             button4.TabIndex = 19;
             button4.Text = "0/3";
             button4.UseVisualStyleBackColor = true;
-            button4.Click += this.button4_Click;
             // 
             // label9
             // 
@@ -297,7 +296,6 @@
             label9.Text = "Số Sách";
             label9.TextAlign = ContentAlignment.TopCenter;
             label9.UseCompatibleTextRendering = true;
-            label9.Click += this.label9_Click;
             // 
             // button5
             // 
